@@ -379,3 +379,7 @@ https://code.dennyzhang.com/web-crawler-multithreaded
 * #  --8<-------------------------- separator ------------------------>8-- :noexport:
 * TODO Add similar floating github: https://oi-wiki.org/dp/#dag    :noexport:
 * TODO [#A] detect 404 images: https://code.dennyzhang.com/binary-tree-cameras :noexport:
+https://code.dennyzhang.com/the-dining-philosophers
+* TODO Can't push java code snippet: https://code.dennyzhang.com/the-dining-philosophers :noexport:
+* #  --8<-------------------------- separator ------------------------>8-- :noexport:
+* TODO maintain similar link like https://leetcode.com/discuss/interview-question/448285/list-of-questions-sorted-by-common-patterns :noexport:
